@@ -185,11 +185,3 @@ minikube delete --all
 
 ---
 
-## **✅ Next Steps**
-
-- Configure **data ingestion pipelines** in NiFi.
-- Integrate with **Kafka, PostgreSQL, and ElasticSearch**.
-- Automate **scaling and monitoring**.
-
-🚀 **You have successfully deployed an Apache NiFi Cluster on Kubernetes!**
-

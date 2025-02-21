@@ -168,16 +168,3 @@ kubectl logs <pod-name> -n <namespace>
 
 ---
 
-## **✅ Next Steps**
-
-Now that you have **Docker, Minikube, and Kubernetes** set up:
-
-- ✅ Deploy a Kubernetes application.
-- ✅ Configure **Storage, Networking, Ingress Controllers, and Monitoring**.
-- ✅ Use **Helm** to install applications.
-- ✅ Explore **persistent volumes and secrets management**.
-
----
-
-🚀 **Congratulations! You now have a fully functional local Kubernetes environment!** 🚀
-
