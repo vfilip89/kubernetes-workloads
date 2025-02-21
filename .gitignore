@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Kubernetes temp files
+*.log
+*.out
+*.pid
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Helm-generated files
+charts/
+helm-release.yaml
+
+# Ignore Minikube and Docker volumes
+.minkube/
+minikube-data/
